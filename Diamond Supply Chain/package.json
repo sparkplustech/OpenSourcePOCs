@@ -1,0 +1,32 @@
+{
+  "name": "daimons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@stardust-ui/docs-components": "^0.40.0",
+    "@truffle/hdwallet-provider": "^1.0.33",
+    "create": "^0.0.2",
+    "emailjs-com": "^2.4.1",
+    "fs": "0.0.1-security",
+    "localStorage": "^1.0.4",
+    "next": "^9.3.1",
+    "next-app": "^0.0.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "reactjs-popup": "^1.5.0",
+    "restler": "^3.4.0",
+    "semantic-ui-react": "^0.88.2",
+    "sendinblue-api": "^1.0.8",
+    "sib-api-v3-sdk": "^7.2.2",
+    "web3": "^1.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC"
+}

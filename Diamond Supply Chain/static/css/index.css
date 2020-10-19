@@ -1,0 +1,19 @@
+.footer {
+    flex-shrink: 0;
+    text-align: center;
+    background-color: rgb(34, 10, 6);
+    color: white;
+  }
+  
+  .header-area {
+    padding-top: 10px;
+    z-index: 9999999;
+    position: relative;
+    background: rgb(241, 241, 241);
+  padding-bottom: 10px;
+    width: 100%;
+  }
+
+  .field{
+    padding-bottom: 20px;
+  }
